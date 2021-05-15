@@ -1,5 +1,5 @@
 
-Tools ini merupakan tools untuk mencari host website
+Tools ini merupakan tools untuk mencari domain website
 yang masih satu server.
 
 Instalasi :
